@@ -8,7 +8,7 @@ int main(){
 
 
 }
-functionName(){
+ int functionName(){
     //function body
     // print the table in c 
     int num;
@@ -18,7 +18,7 @@ functionName(){
     {
         /* code */
         int tableTotal = i*num;
-        printf("%d x %d = %d",i,num,tableTotal);
+        printf("%d x %d = %d",i,num,tableTotal)
         return tableTotal;
     }
     
